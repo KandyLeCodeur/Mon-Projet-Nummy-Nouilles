@@ -1,0 +1,176 @@
+.un{
+    display: flex;
+    border-top: 100px;
+    align-items: center;
+    margin: 100px;
+    border-left: 100px;
+}
+.container{
+    display: flex;
+    padding: 40px;
+    background-color: white;
+}
+.oui{
+    padding-top: 17px;
+}
+.accueil{
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 3px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+button{
+    color: aliceblue;
+    padding: 10px;
+    background-color: black;
+    font-family: ;
+}
+span{
+    color: rgb(240, 51, 51);
+}
+.Logo{
+    height: 50px;
+    margin-left: 30px;
+}
+.logomenu{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+.textmenu{
+    margin-left: 250px;
+}
+.mont{
+    margin-left: 500px;
+    margin-bottom: 5px;
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+.premiere{
+    margin: 30px;
+    margin-left: 150px;
+}
+.premiere1{
+    width: 250px;
+}
+.premiere2{
+    width: 250px;
+}
+.premiere3{
+    width: 250px;
+}
+.deux{
+    display: flex;
+    align-items: center;
+}
+.trois{
+    display: flex;
+    align-items: center;
+}
+.vrai{
+    background-color: rgba(241, 49, 35, 0.952);
+    padding: 20px;
+}
+.True{
+    color: aliceblue;
+    margin-left: 550px;
+}
+.Trues{
+    color: aliceblue;
+    margin-left: 500px;
+}
+.t{
+    margin-left: 500px;
+    margin-top: 50px;
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+.n{
+    margin-left: 230px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.image{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+    gap: 150px;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.partout{
+    margin-left: 500px;
+    margin-top: 0%;
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+.pas{
+    margin-left: 410px;
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+.partout1{
+    margin-left: 400px;
+}
+footer{
+    padding: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: end;
+}
+strong{
+    font-weight: bold;
+    font-size: 17px;
+}
+.pagedebut{
+    text-align: center;
+    background-color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.entre{
+    text-decoration: underline 3px rgb(228, 78, 19);
+}
+.menu{
+    margin-left: 100px;
+}
+.dybo{
+    background-color: beige;
+}
+.logomen{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+.ecrit{
+    margin: 80px;
+}
+.ecrits{
+    margin: 80px;
+    padding-bottom: 80px;
+}
+.yummycontact{
+    display: flex;
+    justify-content: space-between;
+}
+.adresses{
+    font-size: 40px;
+    padding-bottom: 20px;
+    margin-left: 15px;
+}
+.vraimant{
+    border-left: 3px rgb(233, 90, 38) solid;
+}
+.vraiman{
+    margin-left: 5px;
+}
+.peut{
+    border-left: 3px rgb(252, 247, 246) solid;
+    margin-left: 5px;
+}
+.capture{
+    height: 550px;
+    width: 750px;
+}
